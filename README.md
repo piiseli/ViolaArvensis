@@ -1,2 +1,2 @@
 # ViolaArvensis
-Laurean tehtävä webbi aplikaatio
+Laurea: Web App with PHP and SQL
